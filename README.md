@@ -119,7 +119,7 @@ Loan-Approval-System
 │   └── loan_approval_dataset.csv
 │
 ├── notebooks
-│   └── loan_analysis.ipynb
+│   └── analyze.ipynb
 │
 ├── src
 │   ├── preprocessing.py
